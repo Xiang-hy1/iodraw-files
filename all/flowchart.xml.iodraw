@@ -56,7 +56,7 @@
         <mxCell id="znjBBYX2Lx0xHb12fsPA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-3" target="znjBBYX2Lx0xHb12fsPA-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-60" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-59">
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-60" value="冲突历史" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-59">
           <mxGeometry x="0.1572" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-58" value="string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="415" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-61" value="string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="240" width="90" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
