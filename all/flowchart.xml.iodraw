@@ -327,16 +327,17 @@
         <mxCell id="znjBBYX2Lx0xHb12fsPA-91" value="宿舍生活" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="670" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-93">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-93" value="人际关系类&lt;div&gt;室友冷淡，如何融入？&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="730" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-94" value="紧张室友关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="790" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.369;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="540" as="sourcePoint" />
+            <mxPoint x="440" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
