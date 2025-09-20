@@ -44,7 +44,7 @@
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-86" value="影响程度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-85">
           <mxGeometry x="-0.4656" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-1" value="生活场景" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -308,6 +308,9 @@
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-84" value="string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="490" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-87" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
