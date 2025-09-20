@@ -89,7 +89,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-4" target="znjBBYX2Lx0xHb12fsPA-71">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="308" />
+              <mxPoint x="430" y="426" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-4" value="沟通策略" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="265" width="50" height="50" as="geometry" />
@@ -253,7 +258,7 @@
           <mxGeometry x="530" y="365" width="90" height="15" as="geometry" />
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-71" value="string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="464" y="420" width="90" height="15" as="geometry" />
+          <mxGeometry x="464" y="415" width="90" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
