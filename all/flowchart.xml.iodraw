@@ -26,7 +26,7 @@
         <mxCell id="znjBBYX2Lx0xHb12fsPA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-1" target="znjBBYX2Lx0xHb12fsPA-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-77" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-76">
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-77" value="名称" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-76">
           <mxGeometry x="0.0833" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
