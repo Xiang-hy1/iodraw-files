@@ -34,6 +34,11 @@
         <mxCell id="znjBBYX2Lx0xHb12fsPA-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-1" target="znjBBYX2Lx0xHb12fsPA-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-83" value="发生频率" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-82">
+          <mxGeometry x="-0.343" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-1" value="生活场景" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="290" width="50" height="50" as="geometry" />
         </mxCell>
