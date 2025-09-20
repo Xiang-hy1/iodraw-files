@@ -330,8 +330,8 @@
         <mxCell id="znjBBYX2Lx0xHb12fsPA-93" value="矛盾冲突类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="740" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-94" value="宿舍生活" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="610" width="80" height="40" as="geometry" />
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-94" value="紧张室友关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="790" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
