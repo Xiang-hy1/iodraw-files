@@ -354,13 +354,8 @@
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-107" value="r" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-100">
-          <mxGeometry x="-0.0048" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-108" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-100">
-          <mxGeometry x="-0.0936" y="2" relative="1" as="geometry">
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-111" value="requireStrategy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-100">
+          <mxGeometry x="-0.1464" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
