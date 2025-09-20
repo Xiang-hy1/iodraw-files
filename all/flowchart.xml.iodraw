@@ -17,7 +17,7 @@
           <mxGeometry x="430" y="310" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-4" value="沟通策略" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="90" width="50" height="50" as="geometry" />
+          <mxGeometry x="440" y="90" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.12;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="znjBBYX2Lx0xHb12fsPA-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -30,13 +30,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.03;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="znjBBYX2Lx0xHb12fsPA-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="389" y="110" as="sourcePoint" />
             <mxPoint x="439" y="60" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="419" y="80" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
