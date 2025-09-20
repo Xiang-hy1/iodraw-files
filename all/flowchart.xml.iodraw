@@ -53,14 +53,6 @@
         <mxCell id="znjBBYX2Lx0xHb12fsPA-2" value="解决方案" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="130" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-3" target="znjBBYX2Lx0xHb12fsPA-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="znjBBYX2Lx0xHb12fsPA-47" value="关系类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="znjBBYX2Lx0xHb12fsPA-46">
-          <mxGeometry x="-0.2516" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-3" value="室友关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="265" width="50" height="50" as="geometry" />
         </mxCell>
@@ -175,10 +167,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-45" value="string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="350" width="90" height="15" as="geometry" />
+          <mxGeometry x="190" y="315" width="90" height="15" as="geometry" />
         </mxCell>
         <mxCell id="znjBBYX2Lx0xHb12fsPA-48" value="string" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="210" width="90" height="15" as="geometry" />
+          <mxGeometry x="170" y="390" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="znjBBYX2Lx0xHb12fsPA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.661;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="znjBBYX2Lx0xHb12fsPA-45" target="znjBBYX2Lx0xHb12fsPA-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
