@@ -41,9 +41,6 @@
         <mxCell id="lEXzeHsAgf-DBj6vgEh--7" value="人物" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="210" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lEXzeHsAgf-DBj6vgEh--8" value="Person ──isRoommateOf──→ Person&#xa;Person ──uses──────────→ Entity  &#xa;Person ──owns──────────→ Entity&#xa;Person ──participatesIn→ Activity&#xa;Activity──causes────────→ Problem&#xa;Activity──involves──────→ Entity&#xa;Problem──involves───────→ Person&#xa;Problem──about─────────→ Entity" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="110" width="250" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--9" value="实体" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="160" width="50" height="50" as="geometry" />
         </mxCell>
@@ -117,10 +114,15 @@
         <mxCell id="lEXzeHsAgf-DBj6vgEh--28" value="家乡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="80" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lEXzeHsAgf-DBj6vgEh--29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="lEXzeHsAgf-DBj6vgEh--122">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="569.5" as="sourcePoint" />
             <mxPoint x="385" y="569.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--136" value="造成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lEXzeHsAgf-DBj6vgEh--29">
+          <mxGeometry x="-0.3559" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.414;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--7" target="lEXzeHsAgf-DBj6vgEh--28">
