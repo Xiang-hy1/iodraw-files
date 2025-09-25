@@ -230,6 +230,12 @@
         <mxCell id="lEXzeHsAgf-DBj6vgEh--55" value="时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="350" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="lEXzeHsAgf-DBj6vgEh--55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="292" as="sourcePoint" />
+            <mxPoint x="385" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
