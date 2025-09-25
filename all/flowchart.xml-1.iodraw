@@ -368,7 +368,7 @@
             <mxPoint x="385" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lEXzeHsAgf-DBj6vgEh--89" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--89" value="空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="430" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.263;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.407;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--87" target="lEXzeHsAgf-DBj6vgEh--89">
