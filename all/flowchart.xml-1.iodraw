@@ -288,8 +288,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lEXzeHsAgf-DBj6vgEh--70" value="参与人数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="360" width="70" height="20" as="geometry" />
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--70" value="涉及费用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="280" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
