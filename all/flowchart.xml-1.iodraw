@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--22" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="140" width="70" height="20" as="geometry" />
+          <mxGeometry x="100" y="210" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--7" target="lEXzeHsAgf-DBj6vgEh--22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -203,7 +203,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lEXzeHsAgf-DBj6vgEh--50" value="名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--50" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="340" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.33;exitY=0.93;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--11" target="lEXzeHsAgf-DBj6vgEh--50">
