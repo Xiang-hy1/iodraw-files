@@ -112,10 +112,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--25" value="性格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="160" width="70" height="20" as="geometry" />
+          <mxGeometry x="100" y="150" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--28" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="60" width="70" height="20" as="geometry" />
+          <mxGeometry x="200" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--37" value="类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="30" width="70" height="20" as="geometry" />
+          <mxGeometry x="290" y="60" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lEXzeHsAgf-DBj6vgEh--38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.121;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--9" target="lEXzeHsAgf-DBj6vgEh--37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
