@@ -78,6 +78,11 @@
             <mxPoint x="470" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--21" value="about" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lEXzeHsAgf-DBj6vgEh--20">
+          <mxGeometry x="-0.032" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
