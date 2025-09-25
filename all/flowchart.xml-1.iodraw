@@ -385,6 +385,17 @@
         <mxCell id="lEXzeHsAgf-DBj6vgEh--93" value="卫生间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="420" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.756;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--87" target="lEXzeHsAgf-DBj6vgEh--93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="410" as="sourcePoint" />
+            <mxPoint x="385" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--95" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lEXzeHsAgf-DBj6vgEh--94">
+          <mxGeometry x="-0.1333" y="-4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
