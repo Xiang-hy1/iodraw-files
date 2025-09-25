@@ -545,6 +545,12 @@
         <mxCell id="lEXzeHsAgf-DBj6vgEh--129" value="中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="630" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lEXzeHsAgf-DBj6vgEh--131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.669;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lEXzeHsAgf-DBj6vgEh--122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="410" as="sourcePoint" />
+            <mxPoint x="385" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
