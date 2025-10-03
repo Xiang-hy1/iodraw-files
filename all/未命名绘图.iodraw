@@ -46,7 +46,7 @@
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-14" value="&lt;br&gt;一般先确定项目最主要的可交付成果，形成WBS的第一层，然后逐层分解，形成WBS层级结构图" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpd3OgRB5bWBVVUZCqKY-15" value="&lt;div&gt;可通过组织焦点座谈会来分析项目范围说明书，识别项目可交付成果及相关工作&lt;/div&gt;&lt;div&gt;根据项目类型特点确定WBS的分解方式(一般采用自上而下逐层分解)和编排结构(可以利用已有的WBS模板)&amp;nbsp;&lt;/div&gt;&lt;div&gt;一般先确定项目最主要的可交付成果，形成wBS的第一层，然后逐层分解，形成WBS层级结构图&lt;/div&gt;&lt;div&gt;核实WBS分解得是否正确(可逆向验证)，分解程度是否合理&lt;/div&gt;&lt;div&gt;为WBS的每个工作包建立分配控制账户并编制一个唯一的编码， 建立编码系统&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;核实WBS分解得是否正确(可逆向验证)，分解程度是否合理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="490" height="75" as="geometry" />
         </mxCell>
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
