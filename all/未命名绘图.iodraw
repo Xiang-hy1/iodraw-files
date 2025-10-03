@@ -43,7 +43,7 @@
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;根据项目类型特点确定WBS的分解方式(一般采用自上而下逐层分解)和编排结构(可以利用已有的WBS模板)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="470" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mpd3OgRB5bWBVVUZCqKY-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-14" value="&lt;br&gt;一般先确定项目最主要的可交付成果，形成wBS的第一层，然后逐层分解，形成WBS层级结构图" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
