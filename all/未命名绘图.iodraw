@@ -32,7 +32,7 @@
           <mxGeometry x="90" y="505" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-10" value="&lt;div&gt;可通过组织焦点座谈会来分析项目范围说明书，识别项目可交付成果及相关工作&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="40" width="320" height="60" as="geometry" />
+          <mxGeometry x="310" y="40" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mpd3OgRB5bWBVVUZCqKY-1" target="mpd3OgRB5bWBVVUZCqKY-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
