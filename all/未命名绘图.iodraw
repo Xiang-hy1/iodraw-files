@@ -22,8 +22,14 @@
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-4" value="3.创建WBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="270" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mpd3OgRB5bWBVVUZCqKY-6" target="mpd3OgRB5bWBVVUZCqKY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-6" value="&lt;div&gt;4.验证 WBS的合理&lt;/div&gt;&lt;div&gt;性及正确性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-8" value="&lt;div&gt;5.建立WBS编码系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
