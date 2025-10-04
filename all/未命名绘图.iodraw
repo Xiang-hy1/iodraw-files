@@ -7,11 +7,23 @@
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mpd3OgRB5bWBVVUZCqKY-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.017;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mpd3OgRB5bWBVVUZCqKY-80">
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="181.04999999999995" y="184.04999999999995" as="sourcePoint" />
+            <mxPoint x="183" y="184" as="sourcePoint" />
             <mxPoint x="330" y="184" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-82" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-83" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mpd3OgRB5bWBVVUZCqKY-82">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-84" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mpd3OgRB5bWBVVUZCqKY-82">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-85" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mpd3OgRB5bWBVVUZCqKY-82">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
