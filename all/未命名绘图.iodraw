@@ -22,7 +22,7 @@
         <mxCell id="mpd3OgRB5bWBVVUZCqKY-88" value="HelloController" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mpd3OgRB5bWBVVUZCqKY-87">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mpd3OgRB5bWBVVUZCqKY-89" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mpd3OgRB5bWBVVUZCqKY-87">
+        <mxCell id="mpd3OgRB5bWBVVUZCqKY-89" value="LoginContoller" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="mpd3OgRB5bWBVVUZCqKY-87">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
