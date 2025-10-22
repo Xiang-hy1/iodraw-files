@@ -32,16 +32,16 @@
           <mxGeometry x="250" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-18" value="查看课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="570" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-19" value="查看班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="460" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-20" value="成绩录入" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="670" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-21" value="教学安排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="720" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-22" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry y="210" width="30" height="60" as="geometry" />
