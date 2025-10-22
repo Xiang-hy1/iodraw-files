@@ -236,13 +236,13 @@
           <mxGeometry x="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-110" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-111" value="课程管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="75" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-112" value="班级管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="1390" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
