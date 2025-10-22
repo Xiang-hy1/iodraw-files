@@ -31,6 +31,12 @@
         <mxCell id="yTstRcYTERWuzB3K7hiO-12" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="225" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-13" value="查看个人课表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="225" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-14" value="角色管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
