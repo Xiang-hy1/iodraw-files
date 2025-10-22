@@ -26,7 +26,7 @@
           <mxGeometry x="250" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-16" value="学分修读进度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="430" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-17" value="个人信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="120" height="30" as="geometry" />
@@ -281,6 +281,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="310" y="390" as="sourcePoint" />
             <mxPoint x="470" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-121" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="137" y="289" as="sourcePoint" />
+            <mxPoint x="260" y="225" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
