@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-4" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="100" y="320" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-5" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="580" width="30" height="60" as="geometry" />
@@ -52,7 +52,7 @@
             <mxPoint x="490" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-24" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="yTstRcYTERWuzB3K7hiO-24" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="110" y="240" as="sourcePoint" />
             <mxPoint x="20" y="250" as="targetPoint" />
