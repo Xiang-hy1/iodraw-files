@@ -220,7 +220,7 @@
             <mxPoint x="535" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-60" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.675;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-30">
+        <mxCell id="yTstRcYTERWuzB3K7hiO-60" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.675;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-30" target="yTstRcYTERWuzB3K7hiO-64">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="613" y="970" as="sourcePoint" />
             <mxPoint x="675" y="870" as="targetPoint" />
@@ -235,8 +235,8 @@
         <mxCell id="yTstRcYTERWuzB3K7hiO-63" value="删除班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="980" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-64" value="查询班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="990" width="120" height="30" as="geometry" />
+        <mxCell id="yTstRcYTERWuzB3K7hiO-64" value="修改班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="840" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
