@@ -92,7 +92,7 @@
           <mxGeometry x="555" y="910" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-31" value="课程状态管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="520" width="120" height="30" as="geometry" />
+          <mxGeometry x="660" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-32" value="查询角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="690" width="120" height="30" as="geometry" />
@@ -237,6 +237,12 @@
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-64" value="修改班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="840" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-65" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.267;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.388;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="392" y="642" as="sourcePoint" />
+            <mxPoint x="337" y="711" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
