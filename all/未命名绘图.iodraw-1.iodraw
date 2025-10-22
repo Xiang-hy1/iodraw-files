@@ -196,8 +196,11 @@
         <mxCell id="yTstRcYTERWuzB3K7hiO-54" value="删除课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="870" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-55" value="查询课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="750" width="120" height="30" as="geometry" />
+        <mxCell id="yTstRcYTERWuzB3K7hiO-55" value="增加课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-56" value="查询课程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
