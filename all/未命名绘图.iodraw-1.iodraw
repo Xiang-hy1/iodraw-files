@@ -238,11 +238,14 @@
         <mxCell id="yTstRcYTERWuzB3K7hiO-64" value="修改班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-65" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-31">
+        <mxCell id="yTstRcYTERWuzB3K7hiO-65" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.433;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-31" target="yTstRcYTERWuzB3K7hiO-67">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="725" y="621" as="sourcePoint" />
             <mxPoint x="710" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-67" value="增加班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="670" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
