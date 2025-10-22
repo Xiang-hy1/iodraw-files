@@ -151,7 +151,7 @@
             <mxPoint x="370" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-44" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.608;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-28">
+        <mxCell id="yTstRcYTERWuzB3K7hiO-44" value="包含" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.608;exitY=0.067;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.367;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yTstRcYTERWuzB3K7hiO-28" target="yTstRcYTERWuzB3K7hiO-48">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="412" y="662" as="sourcePoint" />
             <mxPoint x="460" y="550" as="targetPoint" />
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="yTstRcYTERWuzB3K7hiO-47" value="增加用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-48" value="查询用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="500" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
