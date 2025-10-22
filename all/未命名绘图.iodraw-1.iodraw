@@ -58,6 +58,9 @@
         <mxCell id="yTstRcYTERWuzB3K7hiO-21" value="教学安排" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="370" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yTstRcYTERWuzB3K7hiO-22" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
