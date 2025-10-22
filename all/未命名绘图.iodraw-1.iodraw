@@ -10,8 +10,8 @@
         <mxCell id="yTstRcYTERWuzB3K7hiO-4" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yTstRcYTERWuzB3K7hiO-5" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="30" height="60" as="geometry" />
+        <mxCell id="yTstRcYTERWuzB3K7hiO-5" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
