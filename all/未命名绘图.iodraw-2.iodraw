@@ -17,10 +17,10 @@
           <mxGeometry x="310" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-5" value="班级管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="540" y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-6" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="650" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-7" value="成绩管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="120" width="110" height="30" as="geometry" />
