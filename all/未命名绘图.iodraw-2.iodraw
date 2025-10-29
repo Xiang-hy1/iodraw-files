@@ -10,8 +10,8 @@
         <mxCell id="VPh1nBUV9kqwW1-oi_04-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPh1nBUV9kqwW1-oi_04-3" value="web成绩管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="40" width="110" height="30" as="geometry" />
+        <mxCell id="VPh1nBUV9kqwW1-oi_04-3" value="学生管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
