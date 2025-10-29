@@ -82,7 +82,7 @@
             <mxPoint x="885" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPh1nBUV9kqwW1-oi_04-21" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPh1nBUV9kqwW1-oi_04-21" value="用户账户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
