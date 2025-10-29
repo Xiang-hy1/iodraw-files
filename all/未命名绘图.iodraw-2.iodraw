@@ -14,10 +14,10 @@
           <mxGeometry x="340" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-4" value="教师管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="110" height="30" as="geometry" />
+          <mxGeometry x="470" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPh1nBUV9kqwW1-oi_04-5" value="web成绩管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="60" width="110" height="30" as="geometry" />
+        <mxCell id="VPh1nBUV9kqwW1-oi_04-5" value="班级管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
