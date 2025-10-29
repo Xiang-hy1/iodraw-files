@@ -83,10 +83,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-21" value="用户账户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="-90" y="210" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-22" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="50" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-23" value="用户角色分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="110" height="30" as="geometry" />
@@ -94,8 +94,11 @@
         <mxCell id="VPh1nBUV9kqwW1-oi_04-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPh1nBUV9kqwW1-oi_04-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="260" as="sourcePoint" />
-            <mxPoint x="430" y="210" as="targetPoint" />
+            <mxPoint x="105" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VPh1nBUV9kqwW1-oi_04-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPh1nBUV9kqwW1-oi_04-22" target="VPh1nBUV9kqwW1-oi_04-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
