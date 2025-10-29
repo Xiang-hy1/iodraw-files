@@ -88,7 +88,7 @@
         <mxCell id="VPh1nBUV9kqwW1-oi_04-22" value="成绩查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="240" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPh1nBUV9kqwW1-oi_04-23" value="成绩统计与分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPh1nBUV9kqwW1-oi_04-23" value="班级学生管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPh1nBUV9kqwW1-oi_04-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
