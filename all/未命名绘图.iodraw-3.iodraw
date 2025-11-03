@@ -293,7 +293,7 @@
           <mxGeometry x="982.5" y="935" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-55" value="产品编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="860" width="90" height="30" as="geometry" />
+          <mxGeometry x="850" y="860" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-56" value="厂名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="700" width="90" height="30" as="geometry" />
@@ -327,6 +327,12 @@
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RATVJXz_DW-HR8AAVuA0-53" target="RATVJXz_DW-HR8AAVuA0-53">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-64" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RATVJXz_DW-HR8AAVuA0-36" target="RATVJXz_DW-HR8AAVuA0-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="715" as="sourcePoint" />
+            <mxPoint x="1184" y="715" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
