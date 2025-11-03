@@ -104,7 +104,7 @@
           <mxGeometry x="330" y="800" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-3" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="960" width="70" height="30" as="geometry" />
+          <mxGeometry x="330" y="920" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-5" value="拥有" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="710" width="75" height="45" as="geometry" />
