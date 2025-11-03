@@ -376,8 +376,8 @@
         <mxCell id="RATVJXz_DW-HR8AAVuA0-72" value="聘期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1132.5" y="590" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RATVJXz_DW-HR8AAVuA0-73" value="厂名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="740" width="90" height="30" as="geometry" />
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-73" value="工资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="755" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
