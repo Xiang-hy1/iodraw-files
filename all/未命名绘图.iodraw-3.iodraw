@@ -97,17 +97,20 @@
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="customer_name char(50) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RATVJXz_DW-HR8AAVuA0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RATVJXz_DW-HR8AAVuA0-1" target="RATVJXz_DW-HR8AAVuA0-2">
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RATVJXz_DW-HR8AAVuA0-1" target="RATVJXz_DW-HR8AAVuA0-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-1" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="640" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-2" value="订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="900" width="70" height="30" as="geometry" />
+          <mxGeometry x="650" y="780" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-3" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="960" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-5" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="725" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
