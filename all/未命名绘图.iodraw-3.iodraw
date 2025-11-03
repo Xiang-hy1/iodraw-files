@@ -104,7 +104,7 @@
           <mxGeometry x="330" y="800" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-3" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="970" width="70" height="30" as="geometry" />
+          <mxGeometry x="330" y="1000" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-5" value="拥有" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="710" width="75" height="45" as="geometry" />
@@ -134,7 +134,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-12" value="包含" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="840" width="75" height="45" as="geometry" />
+          <mxGeometry x="327.5" y="890" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="840" as="sourcePoint" />
+            <mxPoint x="450" y="790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
