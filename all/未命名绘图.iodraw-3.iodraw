@@ -136,7 +136,7 @@
         <mxCell id="RATVJXz_DW-HR8AAVuA0-12" value="包含" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="890" width="75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RATVJXz_DW-HR8AAVuA0-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RATVJXz_DW-HR8AAVuA0-12" target="RATVJXz_DW-HR8AAVuA0-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="840" as="sourcePoint" />
             <mxPoint x="450" y="790" as="targetPoint" />
