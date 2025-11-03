@@ -232,13 +232,13 @@
         <mxCell id="RATVJXz_DW-HR8AAVuA0-35" value="课堂测验四 软件2303 相涵宇 5120232350" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="510" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RATVJXz_DW-HR8AAVuA0-36" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-36" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="660" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-37" value="工厂" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="660" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RATVJXz_DW-HR8AAVuA0-38" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-38" value="职工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="800" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
