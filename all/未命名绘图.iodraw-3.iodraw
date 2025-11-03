@@ -106,8 +106,8 @@
         <mxCell id="RATVJXz_DW-HR8AAVuA0-3" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="960" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RATVJXz_DW-HR8AAVuA0-5" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="750" width="75" height="45" as="geometry" />
+        <mxCell id="RATVJXz_DW-HR8AAVuA0-5" value="拥有" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="710" width="75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RATVJXz_DW-HR8AAVuA0-1" target="RATVJXz_DW-HR8AAVuA0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RATVJXz_DW-HR8AAVuA0-8" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="690" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="680" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
