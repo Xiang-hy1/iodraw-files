@@ -358,6 +358,12 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-96" value="gender" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="107.5" y="248" width="52.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-97" value="title" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88.75" y="280" width="52.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-98" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="248" width="52.5" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
