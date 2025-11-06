@@ -242,10 +242,10 @@
           <mxGeometry x="231.25" y="500" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-71" value="semester" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="225" y="458" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-72" value="description" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="590" width="77.5" height="30" as="geometry" />
+          <mxGeometry x="20" y="590" width="77.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-73" value="score_enabled" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="403" width="77.5" height="30" as="geometry" />
