@@ -32,7 +32,7 @@
           <mxGeometry x="160" y="290" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-15" value="class_info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="190" width="70" height="20" as="geometry" />
+          <mxGeometry x="115" y="190" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-16" value="讲授" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="50" height="50" as="geometry" />
@@ -151,11 +151,14 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-46" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="805" y="348" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OijZlrbsoDYMc_ofvKh5-12">
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OijZlrbsoDYMc_ofvKh5-12" target="OijZlrbsoDYMc_ofvKh5-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="500" as="sourcePoint" />
             <mxPoint x="490" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-48" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="268" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
