@@ -139,6 +139,15 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-42" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="715" y="388" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-44" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="772.5" y="310" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="500" as="sourcePoint" />
+            <mxPoint x="490" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
