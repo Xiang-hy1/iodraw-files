@@ -412,8 +412,8 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-109" value="class_name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="288" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-110" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="52.5" height="20" as="geometry" />
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-110" value="major" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="623.75" y="313" width="52.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
