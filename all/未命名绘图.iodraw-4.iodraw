@@ -8,7 +8,7 @@
           <mxGeometry x="440" y="480" width="650" height="315.27" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-7" value="score" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="70" height="20" as="geometry" />
+          <mxGeometry x="550" y="170" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-8" value="student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="260" width="70" height="20" as="geometry" />
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-48" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="805" y="268" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-49" value="对应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="200" width="45" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
