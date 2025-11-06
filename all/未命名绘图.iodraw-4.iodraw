@@ -415,6 +415,9 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-110" value="major" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="623.75" y="313" width="52.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-112" value="admission_year" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276.88" y="270" width="103.12" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
