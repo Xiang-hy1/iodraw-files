@@ -32,7 +32,7 @@
           <mxGeometry x="160" y="290" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-15" value="class_info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="200" width="70" height="20" as="geometry" />
+          <mxGeometry x="300" y="190" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-16" value="讲授" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="50" height="50" as="geometry" />
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-59" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="128" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-60" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="220" width="45" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
