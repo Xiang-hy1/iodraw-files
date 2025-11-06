@@ -403,6 +403,12 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-106" value="student_no" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="293" width="77.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-107" value="gender" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="218" width="52.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-108" value="user_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="52.5" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
