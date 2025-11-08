@@ -782,7 +782,7 @@
           <mxGeometry x="1115" y="368" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-208" value="拥有" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="308" width="50" height="40" as="geometry" />
+          <mxGeometry x="1245" y="480" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
