@@ -821,7 +821,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-254" value="isbn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="520" width="50" height="30" as="geometry" />
+          <mxGeometry x="1450" y="500" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-255" value="书名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="593" width="50" height="30" as="geometry" />
@@ -833,9 +833,9 @@
           <mxGeometry x="1395" y="660" width="70" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-258" value="图书分类号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="720" width="70" height="33" as="geometry" />
+          <mxGeometry x="1310" y="650" width="70" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-259" value="书名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-259" value="单价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="578" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
