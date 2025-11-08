@@ -880,8 +880,8 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-267" value="isbn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025" y="468" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-268" value="出版单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1405" y="670" width="70" height="33" as="geometry" />
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-268" value="借书证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="500" width="70" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
