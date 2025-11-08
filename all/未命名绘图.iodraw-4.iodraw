@@ -664,6 +664,11 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-174" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="143" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OijZlrbsoDYMc_ofvKh5-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-175" value="读者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="260" width="40" height="20" as="geometry" />
         </mxCell>
@@ -671,10 +676,10 @@
           <mxGeometry x="1590" y="293" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-178" value="借阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="188" width="40" height="20" as="geometry" />
+          <mxGeometry x="1360" y="353" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-179" value="罚款分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="328" width="70" height="20" as="geometry" />
+          <mxGeometry x="1510" y="370" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-180" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="153" width="50" height="40" as="geometry" />
