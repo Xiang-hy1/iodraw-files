@@ -662,7 +662,7 @@
           <mxGeometry x="1280" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-174" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="143" width="40" height="20" as="geometry" />
+          <mxGeometry x="1400" y="173" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-175" value="读者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="288" width="40" height="20" as="geometry" />
