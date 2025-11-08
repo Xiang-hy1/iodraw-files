@@ -910,7 +910,7 @@
             <mxPoint x="1120" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-274" value="借书证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-274" value="&lt;u&gt;借书证号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="180" width="60" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-275" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
