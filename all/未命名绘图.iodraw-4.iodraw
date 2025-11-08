@@ -658,8 +658,11 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-171" value="图书分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="160" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-172" value="user_role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="270" width="70" height="20" as="geometry" />
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-173" value="书目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="228" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-174" value="图书分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="180" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
