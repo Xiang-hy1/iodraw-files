@@ -664,13 +664,8 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-174" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1380" y="143" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OijZlrbsoDYMc_ofvKh5-175">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-175" value="读者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="260" width="40" height="20" as="geometry" />
+          <mxGeometry x="1075" y="270" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-177" value="预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="293" width="40" height="20" as="geometry" />
