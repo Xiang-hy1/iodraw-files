@@ -1078,8 +1078,8 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-311" value="罚款名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1455" y="341" width="55" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-312" value="是否借出" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="213" width="55" height="24" as="geometry" />
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-312" value="罚款金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1457.5" y="439" width="55" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
