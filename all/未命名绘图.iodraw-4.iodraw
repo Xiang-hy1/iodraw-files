@@ -802,8 +802,8 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-212" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1195" y="418" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OijZlrbsoDYMc_ofvKh5-250" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-250" value="图书分类号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="180" width="80" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
