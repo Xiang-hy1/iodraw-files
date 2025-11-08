@@ -1037,7 +1037,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-302" value="图书编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1212.5" y="338" width="55" height="24" as="geometry" />
+          <mxGeometry x="1352.5" y="120" width="55" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-303" value="isbn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="510" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
