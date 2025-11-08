@@ -878,7 +878,7 @@
           <mxGeometry x="1010" y="418" width="70" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-267" value="isbn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="468" width="50" height="30" as="geometry" />
+          <mxGeometry x="1040" y="468" width="35" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-268" value="借书证号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="500" width="70" height="33" as="geometry" />
@@ -914,7 +914,7 @@
           <mxGeometry x="990" y="173" width="70" height="33" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-275" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="228" width="50" height="30" as="geometry" />
+          <mxGeometry x="970" y="228" width="40" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-276" value="单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="263" width="40" height="27" as="geometry" />
