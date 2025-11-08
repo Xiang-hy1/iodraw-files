@@ -671,7 +671,7 @@
           <mxGeometry x="1590" y="293" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-178" value="借阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="353" width="40" height="20" as="geometry" />
+          <mxGeometry x="1300" y="273" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-179" value="罚款分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="370" width="70" height="20" as="geometry" />
@@ -696,6 +696,9 @@
         </mxCell>
         <mxCell id="OijZlrbsoDYMc_ofvKh5-184" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1225" y="108" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-186" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="163" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
