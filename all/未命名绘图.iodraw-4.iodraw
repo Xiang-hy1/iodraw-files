@@ -919,6 +919,9 @@
         <mxCell id="OijZlrbsoDYMc_ofvKh5-276" value="单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="263" width="40" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="OijZlrbsoDYMc_ofvKh5-277" value="单位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="308" width="40" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
